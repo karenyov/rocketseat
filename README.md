@@ -2,6 +2,8 @@
 
 Aplicação WEB e Mobile realizada no Workshop [Rocketseat](https://rocketseat.com.br).
 
+Este repositório contém o código desenvolvido na parte da API
+
 ## Requisitos
 - [Nodejs]()
 - [Yarn]()
@@ -9,7 +11,6 @@ Aplicação WEB e Mobile realizada no Workshop [Rocketseat](https://rocketseat.c
 ## Características
 > Utilizado Yarn
 > Banco de Dados: MongoDB Atlas
-
 
 
 ### URLs API
