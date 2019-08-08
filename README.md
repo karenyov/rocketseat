@@ -12,6 +12,8 @@ Este repositório contém o código desenvolvido na parte da API
 > Utilizado Yarn
 > Banco de Dados: MongoDB Atlas
 
+## Rodando
+> Entrar na pasta do projeto e executar: ``` yarn dev ```
 
 ### URLs API
 Cadastro Devs
